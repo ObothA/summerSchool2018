@@ -13,4 +13,9 @@ function subtract(num1,num2){
 
 console.log(subtract(20,10))
 
+function division(num1,num2){
+    division = num1/num2
+    return division
+}
 
+console.log( division(12,4))
