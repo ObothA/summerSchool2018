@@ -12,7 +12,16 @@ function subtract(num1, num2) {
 
 console.log(subtract(20, 10))
 
-function product(var1, var2) {
-    return var1 * var2;
+function division(num1, num2) {
+    division = num1 / num2
+    return division
 }
+
+console.log(division(12, 4))
+
+function product(num1, num2) {
+
+    return num1 * num2;
+}
+
 console.log(product(2, 3));
